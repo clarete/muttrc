@@ -1,0 +1,27 @@
+# -*- Mode: muttrc -*-
+
+# Caches
+set header_cache='~/.mutt/.cache/headercache'
+set message_cachedir='~/.mutt/.cache/messagecache'
+set certificate_file='~/.mutt/.cache/certificates'
+
+# My PGP Key config
+set pgp_autosign=yes
+set pgp_sign_as=0x589E26B5
+set pgp_replyencrypt=yes
+
+# HTML Rendering
+auto_view text/html
+alternative_order text/enriched text/plain text
+
+# Futher config
+set abort_nosubject = ask-yes
+set abort_unmodified = yes
+set delete = ask-yes
+set editor = 'emacsclient -t'
+set content_type = 'text/plain'
+set mark_old = no
+set sort = threads
+set sort_aux = reverse-last-date-received
+set pager_index_lines = 15
+

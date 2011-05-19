@@ -1,0 +1,6 @@
+# -*- Mode: muttrc -*-
+
+# Identifying myself
+set realname = 'Lincoln de Sousa'
+set from = 'lincoln@comum.org'
+set signature = '~/.signature'

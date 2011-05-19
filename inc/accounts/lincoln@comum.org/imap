@@ -1,0 +1,7 @@
+# -*- Mode: muttrc -*-
+
+# Imap stuff
+set imap_user="lincoln@comum.org"
+set folder='imaps://lincoln@comum.org@mail.comum.org/INBOX'
+set spoolfile='imaps://lincoln@comum.org@mail.comum.org/INBOX'
+set record='+'

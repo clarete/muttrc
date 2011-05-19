@@ -1,0 +1,2 @@
+# -*- Mode: muttrc -*-
+set smtp_url='smtp://lincoln@comum.org@mail.comum.org'
