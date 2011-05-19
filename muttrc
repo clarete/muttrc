@@ -6,6 +6,5 @@ source ~/.mutt/inc/sidebar
 
 source ~/.mutt/inc/accounts/lincoln@comum.org/maildir
 source ~/.mutt/inc/accounts/lincoln@comum.org/ident
-source ~/.mutt/inc/accounts/lincoln@comum.org/imap
 source ~/.mutt/inc/accounts/lincoln@comum.org/smtp
 source ~/.mutt/inc/accounts/lincoln@comum.org/mailboxes
