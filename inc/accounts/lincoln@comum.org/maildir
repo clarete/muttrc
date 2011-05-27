@@ -2,8 +2,8 @@
 
 # Configuration to be used with a Maildir
 set mbox_type=Maildir
-set folder = '~/Mail'
-set mbox='~/Mail'
-set spoolfile='~/Mail/INBOX'
-set record='~/Mail/INBOX'
-set postponed='~/Mail/Drafts'
+set folder = '~/Mail/lincoln@comum.org'
+set mbox='~/Mail/lincoln@comum.org'
+set spoolfile='~/Mail/lincoln@comum.org/INBOX'
+set record='~/Mail/lincoln@comum.org/INBOX'
+set postponed='~/Mail/lincoln@comum.org/Drafts'
