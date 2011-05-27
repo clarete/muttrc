@@ -1,0 +1,9 @@
+# -*- Mode: muttrc -*-
+
+# Configuration to be used with a Maildir
+set mbox_type=Maildir
+set folder = '~/Mail/lincoln@gg.rs.gov.br'
+set mbox='~/Mail/lincoln@gg.rs.gov.br'
+set spoolfile='~/Mail/lincoln@gg.rs.gov.br/INBOX'
+set record='~/Mail/lincoln@gg.rs.gov.br/INBOX'
+set postponed='~/Mail/lincoln@gg.rs.gov.br/Rascunho'
