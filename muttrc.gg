@@ -1,3 +1,4 @@
+# -*- Mode: Muttrc -*-
 # config for the lincoln@gg.rs.gov.br account
 
 source ~/.mutt/inc/base
