@@ -1,0 +1,7 @@
+# -*- Mode: muttrc -*-
+
+# Imap stuff
+set imap_user="lincoln@comum.org"
+set folder='imaps://gg-lincoln-clarete@imap.procergs.rs.gov.br/INBOX'
+set spoolfile='imaps://gg-lincoln-clarete@imap.procergs.rs.gov.br/INBOX'
+set record='+'

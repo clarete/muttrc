@@ -1,0 +1,6 @@
+# -*- Mode: muttrc -*-
+
+# Identifying myself
+set realname = 'Lincoln de Sousa'
+set from = 'lincoln@gg.rs.gov.br'
+set signature = '~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/signature'

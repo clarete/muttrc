@@ -1,0 +1,9 @@
+# config for the lincoln@comum.org account
+
+source ~/.mutt/inc/base
+source ~/.mutt/inc/colors
+source ~/.mutt/inc/sidebar
+
+source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/imap
+source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/ident
+source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/smtp

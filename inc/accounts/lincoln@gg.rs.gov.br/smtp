@@ -1,0 +1,2 @@
+# -*- Mode: muttrc -*-
+set smtp_url='smtp://gg-lincoln-clarete@smtp.direto.procergs.rs.gov.br'
