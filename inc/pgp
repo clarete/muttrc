@@ -1,0 +1,4 @@
+# My PGP Key config
+set pgp_autosign=yes
+set pgp_sign_as=0x589E26B5
+set pgp_replyencrypt=yes
