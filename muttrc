@@ -1,3 +1,4 @@
+# -*- Mode: Muttrc -*-
 # config for the lincoln@comum.org account
 
 source ~/.mutt/inc/base
