@@ -1,9 +1,10 @@
-# config for the lincoln@comum.org account
+# config for the lincoln@gg.rs.gov.br account
 
 source ~/.mutt/inc/base
 source ~/.mutt/inc/colors
 source ~/.mutt/inc/sidebar
+set sidebar_visible = no
 
-source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/imap
+source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/maildir
 source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/ident
 source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/smtp
