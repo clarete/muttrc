@@ -10,6 +10,9 @@ auto_view text/html
 alternative_order text/enriched text/plain text
 
 # Futher config
+set read_inc = 100
+set mail_check = 90
+set timeout = 15
 set abort_nosubject = ask-yes
 set abort_unmodified = yes
 set delete = ask-yes
