@@ -6,7 +6,7 @@ source ~/.mutt/inc/pgp
 source ~/.mutt/inc/colors
 source ~/.mutt/inc/sidebar
 
-source ~/.mutt/inc/accounts/lincoln@comum.org/imap
-source ~/.mutt/inc/accounts/lincoln@comum.org/ident
-source ~/.mutt/inc/accounts/lincoln@comum.org/smtp
-source ~/.mutt/inc/accounts/lincoln@comum.org/mailboxes
+source ~/.mutt/accounts/lincoln@comum.org/imap
+source ~/.mutt/accounts/lincoln@comum.org/ident
+source ~/.mutt/accounts/lincoln@comum.org/smtp
+source ~/.mutt/accounts/lincoln@comum.org/mailboxes

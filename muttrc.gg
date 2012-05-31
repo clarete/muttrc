@@ -6,6 +6,6 @@ source ~/.mutt/inc/colors
 source ~/.mutt/inc/sidebar
 set sidebar_visible = no
 
-source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/maildir
-source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/ident
-source ~/.mutt/inc/accounts/lincoln@gg.rs.gov.br/smtp
+source ~/.mutt/accounts/lincoln@gg.rs.gov.br/maildir
+source ~/.mutt/accounts/lincoln@gg.rs.gov.br/ident
+source ~/.mutt/accounts/lincoln@gg.rs.gov.br/smtp

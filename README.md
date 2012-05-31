@@ -22,6 +22,6 @@ You just need to clone your repo, like this:
 This conf is split into small files to make it easy to maintain
 things. This setup also support multiple accounts and the basic setup
 can be found in the `inc` directory and the account setup can be found
-in the `inc/accounts` directory. Each account must have an entry point
-file, so you can `mutt -F <file>` to load one or another account, or
-just create shell aliases for each account, if you want.
+in the `accounts` directory. Each account must have an entry point file,
+so you can `mutt -F <file>` to load one or another account, or just
+create shell aliases for each account, if you want.
