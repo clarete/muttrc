@@ -9,14 +9,16 @@ set certificate_file='~/.mutt/.cache/certificates'
 auto_view text/html
 alternative_order text/enriched text/plain text
 
-# Futher config
+# Sync and check intervals
 set read_inc = 100
 set mail_check = 90
 set timeout = 15
+
+# Futher config
 set abort_nosubject = ask-yes
 set abort_unmodified = yes
 set delete = ask-yes
-set editor = 'emacsclient -t'
+set editor = "$EDITOR"
 set content_type = 'text/plain'
 set mark_old = no
 set sort = threads
