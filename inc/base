@@ -5,9 +5,9 @@ set header_cache='~/.mutt/.cache/headercache'
 set message_cachedir='~/.mutt/.cache/messagecache'
 set certificate_file='~/.mutt/.cache/certificates'
 
-# HTML Rendering
-auto_view text/html
-alternative_order text/enriched text/plain text
+# Automatic viewing html, but prefer text/plain
+set implicit_autoview
+alternative_order text/plain text/html
 
 # Sync and check intervals
 set read_inc = 100
