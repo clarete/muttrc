@@ -3,4 +3,5 @@
 # Identifying myself
 set realname = 'Lincoln de Sousa'
 set from = 'lincoln@comum.org'
-set signature = '~/.signature'
+set sig_dashes="no"
+set signature = "~/.mutt/accounts/lincoln@comum.org/signature"
