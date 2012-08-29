@@ -1,4 +1,4 @@
-text/html;              lynx %s; nametemplate=%s.html
-text/html;              lynx -dump %s; nametemplate=%s.html; copiousoutput
-application/*;          mimeopen '%s';
-image/*;                mimeopen '%s';
+text/html;		~/bin/view_attachment.sh %s -; nametemplate=%s.html
+text/html;		~/bin/view_attachment.sh %s -; nametemplate=%s.html; copiousoutput
+application/*;		~/bin/view_attachment.sh %s -
+image/*; 		~/bin/view_attachment.sh %s -

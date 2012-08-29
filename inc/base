@@ -15,6 +15,7 @@ set mail_check = 90
 set timeout = 15
 
 # Futher config
+set tmpdir="/tmp/mutt_cached"
 set mailcap_path=~/.mutt/mailcap
 set abort_nosubject = ask-yes
 set abort_unmodified = yes
