@@ -15,7 +15,7 @@ set mail_check = 90
 set timeout = 15
 
 # Futher config
-set tmpdir="/tmp/mutt_cached"
+set tmpdir=~/.mutt/tmp
 set mailcap_path=~/.mutt/mailcap
 set abort_nosubject = ask-yes
 set abort_unmodified = yes
@@ -26,4 +26,3 @@ set mark_old = no
 set sort = threads
 set sort_aux = reverse-last-date-received
 set pager_index_lines = 15
-
