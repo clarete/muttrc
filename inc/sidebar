@@ -9,3 +9,4 @@ bind pager \CN sidebar-next
 bind pager \CO sidebar-open
 color sidebar_new yellow default
 set sidebar_width=30
+set sidebar_delim   = '  │'
