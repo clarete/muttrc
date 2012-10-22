@@ -1,8 +1,15 @@
 # -*- Mode: Muttrc -*-
+
 # My PGP Key config
-set pgp_autosign=yes
 set pgp_sign_as=0x589E26B5
-set pgp_replyencrypt=yes
+
+# General crypt options
+set crypt_autosmime="no"
+set crypt_autosign="yes"
+set crypt_replyencrypt="yes"
+set crypt_replysign="yes"
+set crypt_replysignencrypted="yes"
+set crypt_verify_sig="yes"
 
 # Using GNUPG
 set pgp_decode_command="gpg %?p?--passphrase-fd 0? --no-verbose --batch --output - %f"
