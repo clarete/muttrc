@@ -1,4 +1,4 @@
-# -*- Mode: muttrc -*-
+# -*- Mode: mutt -*-
 color attachment brightmagenta default
 color error      brightred    default
 color hdrdefault red          default

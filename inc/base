@@ -1,4 +1,4 @@
-# -*- Mode: muttrc -*-
+# -*- Mode: mutt -*-
 
 # Caches
 set header_cache='~/.mutt/.cache/headercache'

@@ -1,4 +1,4 @@
-# -*- Mode: muttrc -*-
+# -*- Mode: mutt -*-
 macro index b '<enter-command>toggle sidebar_visible<enter>'
 macro pager b '<enter-command>toggle sidebar_visible<enter>'
 bind index \CP sidebar-prev

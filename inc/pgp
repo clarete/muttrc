@@ -1,4 +1,4 @@
-# -*- Mode: Muttrc -*-
+# -*- Mode: Mutt -*-
 
 # My PGP Key config
 set pgp_sign_as=0x589E26B5
