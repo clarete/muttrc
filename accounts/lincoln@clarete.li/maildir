@@ -1,0 +1,11 @@
+# -*- Mode: mutt -*-
+
+# Configuration to be used with a Maildir
+mailboxes = =INBOX
+
+set mbox_type="Maildir"
+set mbox="~/mail/lincoln@clarete.li/INBOX"
+set folder="~/mail/lincoln@clarete.li/"
+set spoolfile="~/mail/lincoln@clarete.li/INBOX"
+set record="~/mail/lincoln@clarete.li/Sent Mail"
+set postponed="~/mail/lincoln@clarete.li/Drafts"

@@ -1,0 +1,7 @@
+# -*- Mode: mutt -*-
+
+# Identification information
+set realname = 'Lincoln Clarete'
+set from = 'lincoln@clarete.li'
+set sig_dashes='no'
+set signature = '~/.mutt/accounts/lincoln@clarete.li/signature'

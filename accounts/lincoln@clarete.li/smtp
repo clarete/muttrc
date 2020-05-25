@@ -1,0 +1,11 @@
+# -*- Mode: mutt -*-
+
+# Debian Buster ships msmtp 1.8.3, which still doesn't have OAuth2
+# support, needed by GMail.  Trying the package from Debian sid 1.8.8,
+# which contains OAuth2 support, didn't work either because
+# `passwordeval` was raising "Permission denied" even after running
+# the proper `chmod` command to the `oauth2token` script. That's why I
+# ended up compiling msmtp from source control and it ended up working
+# (although compilation did raise errors on the processing of
+# gettext).
+set sendmail="~/src/git.marlam.de/git/msmtp/src/msmtp"

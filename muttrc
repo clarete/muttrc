@@ -1,12 +1,9 @@
-# -*- Mode: Muttrc -*-
-# config for the lincoln@comum.org account
+# -*- Mode: Mutt -*-
+# config for the lincoln@clarete.li account
 
 source ~/.mutt/inc/base
-source ~/.mutt/inc/pgp
 source ~/.mutt/inc/colors
-source ~/.mutt/inc/sidebar
 
-source ~/.mutt/accounts/lincoln@comum.org/imap
-source ~/.mutt/accounts/lincoln@comum.org/ident
-source ~/.mutt/accounts/lincoln@comum.org/smtp
-source ~/.mutt/accounts/lincoln@comum.org/mailboxes
+source ~/.mutt/accounts/lincoln@clarete.li/ident
+source ~/.mutt/accounts/lincoln@clarete.li/smtp
+source ~/.mutt/accounts/lincoln@clarete.li/maildir
