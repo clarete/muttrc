@@ -1,4 +1,2 @@
-*~
-/.cache/certificates
-/.cache/headercache
-/.cache/messagecache
+tmp
+.cache
