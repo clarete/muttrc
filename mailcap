@@ -1,3 +1,3 @@
 text/html;              w3m -dump %s; nametemplate=%s.html; copiousoutput
-application/*;		~/bin/view_attachment.sh %s -
-image/*; 		~/bin/view_attachment.sh %s -
+image/*; 		xdg-open %s
+application/*;		xdg-open %s
